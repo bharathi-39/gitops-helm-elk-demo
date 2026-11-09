@@ -1,0 +1,12 @@
+{
+  "name": "hi-app",
+  "version": "1.0.0",
+  "description": "Demo application for Helm, ArgoCD and ELK",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
